@@ -116,7 +116,7 @@ Convertit une animation HTML/CSS/JS en MP4 vertical 1080×1920 via Puppeteer, sa
 
 <br>
 
-**Software engineering student at Polytechnique Montréal**, graduating Dec. 2027.
+**Computer engineering student at Polytechnique Montréal**, graduating Dec. 2027.
 I ship complete products on my own: structured-output LLM pipelines, deterministic
 scoring, race-free transactional accounting, cloud security.
 
