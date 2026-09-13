@@ -45,7 +45,7 @@ Ces trois produits tournent réellement. Leur code est privé — les liens poin
 
 Adapte un CV à une offre sous une règle de zéro invention inscrite dans chaque prompt. Le score ATS est une fonction déterministe, pas une sortie de modèle.
 
-`~30 s` par génération
+`~30 s` par génération · `271` tests
 `SvelteKit 2` · `MongoDB` · `Stripe`
 
 </td>
@@ -55,7 +55,7 @@ Adapte un CV à une offre sous une règle de zéro invention inscrite dans chaqu
 
 Mesure la préparation réelle à un examen, chapitre par chapitre. Chaque réponse est citée (document et page). Aucune note produite par un LLM.
 
-`47 600` lignes TS · `74` fichiers de tests
+`62 500` lignes TS · `75` fichiers de tests
 `Next.js 15` · `pgvector` · `BullMQ`
 
 </td>
@@ -65,7 +65,7 @@ Mesure la préparation réelle à un examen, chapitre par chapitre. Chaque répo
 
 Suivi d'habitudes qui arbitre au lieu d'enregistrer : deux ou trois objectifs tenables par jour, et la raison de chaque écart.
 
-`62 000` lignes TS · `941` tests
+`115 700` lignes TS · `1 013` tests
 `Expo` · `tRPC` · `Turborepo`
 
 </td>
@@ -140,7 +140,7 @@ All three products are live. Their source is private — the links point to the 
 
 Tailors a résumé to a job posting under a zero-fabrication rule written into every prompt. The ATS score is a deterministic function, never a model output.
 
-`~30 s` per generation
+`~30 s` per generation · `271` tests
 `SvelteKit 2` · `MongoDB` · `Stripe`
 
 </td>
@@ -150,7 +150,7 @@ Tailors a résumé to a job posting under a zero-fabrication rule written into e
 
 Measures real exam readiness, chapter by chapter. Every answer is cited (document and page). No grade is ever produced by an LLM.
 
-`47,600` TS lines · `74` test files
+`62,500` TS lines · `75` test files
 `Next.js 15` · `pgvector` · `BullMQ`
 
 </td>
@@ -160,7 +160,7 @@ Measures real exam readiness, chapter by chapter. Every answer is cited (documen
 
 A habit tracker that arbitrates instead of recording: two or three achievable goals a day, and the reason behind every trade-off.
 
-`62,000` TS lines · `941` tests
+`115,700` TS lines · `1,013` tests
 `Expo` · `tRPC` · `Turborepo`
 
 </td>
